@@ -1,6 +1,6 @@
-# OASR-ReID
+# Trans-ASR
 
-Official Implementation for the paper "Occlusion-aware Appearance and Shape Reasoning for Occluded Cloth-Changing Person Re-Identification".
+Official Implementation for the paper "Transformer-based Appearance and Shape Reasoning for Person Re-Identification under Occlusions and Clothing Changes".
 
 ## News
 
